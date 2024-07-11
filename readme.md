@@ -19,6 +19,6 @@ This project implements the DPLL (Davis-Putnam-Logemann-Loveland) algorithm in P
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/dpll-solver.git
-   cd dpll-solver
+   git clone https://github.com/4lirastegar/dpll.git
+   cd dpll
    ```
