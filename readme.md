@@ -12,7 +12,6 @@ This project implements the DPLL (Davis-Putnam-Logemann-Loveland) algorithm in P
 ## Files
 
 - `dpll.ipynb`: Contains the implementation of the DPLL algorithm in a Jupyter Notebook.
-- `example.py`: An example script that demonstrates how to use the DPLL solver with a sample CNF formula.
 
 ## Usage
 
